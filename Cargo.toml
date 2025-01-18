@@ -1,0 +1,12 @@
+[package]
+name = "cargo-llm"
+version = "0.1.0"
+edition = "2021"
+description = "A cargo subcommand for interacting with LLMs"
+keywords = ["cargo", "llm"]
+categories = ["command-line-utilities", "development-tools::cargo-plugins"]
+license = "Apache-2.0"
+readme = "README.md"
+
+
+[dependencies]
